@@ -207,21 +207,21 @@ const categoriasCardapio = [
         id: "combos",
         nome: "Combos",
         itens: [
-            { id: 2001, nome: "Combo Red Label + Red Hot", desc: "1 Whisky Red Label + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 122.00, img: "combos/red_label_+_red+hot_2_L_+_3_gelos_saborizados_.jpg", ativo: true },
-            { id: 2002, nome: "Combo Red Label + Attivus", desc: "1 Whisky Red Label + 1 Attivus 2L + 3 Gelos Saborizados", preco: 120.00, img: "combos/red_label_+_attivus_2_L_+_3_gelos_saborizados_.jpg", ativo: true },
-            { id: 2003, nome: "Combo White Horse + Red Hot", desc: "1 Whisky White Horse + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 112.00, img: "combos/whitehorse_+_red_hot_2_L_+_3_gelos_saborizados_.jpg", ativo: true },
-            { id: 2004, nome: "Combo White Horse + Attivus", desc: "1 Whisky White Horse + 1 Attivus 2L + 3 Gelos Saborizados", preco: 110.00, img: "combos/white_horse_+_attivus_2_L_+_ 3_gelos_saborizados_.jpg", ativo: true },
-            { id: 2005, nome: "Combo Smirnoff + Red Hot", desc: "1 Vodka Smirnoff + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 72.00, img: "combos/smirnoff_+_red_hot_2_L_+_3_gelos_saborizados_.jpg", ativo: true },
-            { id: 2006, nome: "Combo Smirnoff + Attivus", desc: "1 Vodka Smirnoff + 1 Attivus 2L + 3 Gelos Saborizados", preco: 70.00, img: "combos/smirnoff_+_attivus_2_L_+_3_gelos_daborizados_.jpg", ativo: true },
-            { id: 2007, nome: "Combo Royal Blue + Red Hot", desc: "1 Whisky Royal Blue + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 50.00, img: "combos/royal_blue_+_red_hot_2_L_+_3_gelos_saborizados_.jpg", ativo: true },
-            { id: 2008, nome: "Combo Leonoff + Red Hot", desc: "1 Vodka Leonoff + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 42.00, img: "combos/leonoff_+_red_hot_2_L_+_3+gelos_saborizados_.jpg", ativo: true },
-            { id: 2009, nome: "Combo Leonoff + Attivus", desc: "1 Vodka Leonoff + 1 Attivus 2L + 3 Gelos Saborizados", preco: 40.00, img: "combos/leonoff_+_attivus_2_L_+_3_gelos_saborizados_.jpg", ativo: true },
+            { id: 2001, nome: "Combo Red Label + Red Hot", desc: "1 Whisky Red Label + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 122.00, img: "combos/red_label_+_red_hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2002, nome: "Combo Red Label + Attivus", desc: "1 Whisky Red Label + 1 Attivus 2L + 3 Gelos Saborizados", preco: 120.00, img: "combos/red_label_+_attivus_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2003, nome: "Combo White Horse + Red Hot", desc: "1 Whisky White Horse + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 112.00, img: "combos/whitehorse_+_red_hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2004, nome: "Combo White Horse + Attivus", desc: "1 Whisky White Horse + 1 Attivus 2L + 3 Gelos Saborizados", preco: 110.00, img: "combos/white_horse_+_attivus_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2005, nome: "Combo Smirnoff + Red Hot", desc: "1 Vodka Smirnoff + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 72.00, img: "combos/smirnoff_+_red_hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2006, nome: "Combo Smirnoff + Attivus", desc: "1 Vodka Smirnoff + 1 Attivus 2L + 3 Gelos Saborizados", preco: 70.00, img: "combos/smirnoff_+_attivus_2_L_+_3_gelos_daborizados.jpg", ativo: true },
+            { id: 2007, nome: "Combo Royal Blue + Red Hot", desc: "1 Whisky Royal Blue + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 50.00, img: "combos/royal_blue_+_red_hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2008, nome: "Combo Leonoff + Red Hot", desc: "1 Vodka Leonoff + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 42.00, img: "combos/leonoff_+_red_hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2009, nome: "Combo Leonoff + Attivus", desc: "1 Vodka Leonoff + 1 Attivus 2L + 3 Gelos Saborizados", preco: 40.00, img: "combos/leonoff_+_attivus_2_L_+_3_gelos_saborizados.jpg", ativo: true },
             { id: 2014, nome: "Whisky + Combo Tigrinho", desc: "1L Coquetel + Energético", preco: 25.00, img: "combos/whisky_+_combo_tigrinho_1_L.jpg", ativo: true },
             { id: 2015, nome: "Whisky + Combo Maçã Verde", desc: "1L Coquetel + Energético", preco: 25.00, img: "combos/whisky_+_combo_maça_verde_1_L.jpg", ativo: true },
-            { id: 2010, nome: "Combo Corote Vodka", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_vodka_.jpg", ativo: true },
-            { id: 2011, nome: "Combo Corote Whisky", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_wisky_.jpg", ativo: true },
-            { id: 2012, nome: "Combo Corote Gin Melancia", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_gin_melancia_.jpg", ativo: true },
-            { id: 2013, nome: "Combo Corote Gin Tropical", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_gin_tropical_.jpg", ativo: true }
+            { id: 2010, nome: "Combo Corote Vodka", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_vodka.jpg", ativo: true },
+            { id: 2011, nome: "Combo Corote Whisky", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_wisky.jpg", ativo: true },
+            { id: 2012, nome: "Combo Corote Gin Melancia", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_gin_melancia.jpg", ativo: true },
+            { id: 2013, nome: "Combo Corote Gin Tropical", desc: "1L Gaseificado", preco: 20.00, img: "combos/combo_corote_gin_tropical.jpg", ativo: true }
         ]
     }
 ];
