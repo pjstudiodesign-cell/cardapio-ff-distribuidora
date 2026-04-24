@@ -207,7 +207,7 @@ const categoriasCardapio = [
         id: "combos",
         nome: "Combos",
         itens: [
-            { id: 2001, nome: "Combo Red Label + Red Hot", desc: "1 Whisky Red Label + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 122.00, img: "combos/red_label_+_red_hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
+            { id: 2001, nome: "Combo Red Label + Red Hot", desc: "1 Whisky Red Label + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 122.00, img: "combos/red_label_+_red+hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
             { id: 2002, nome: "Combo Red Label + Attivus", desc: "1 Whisky Red Label + 1 Attivus 2L + 3 Gelos Saborizados", preco: 120.00, img: "combos/red_label_+_attivus_2_L_+_3_gelos_saborizados.jpg", ativo: true },
             { id: 2003, nome: "Combo White Horse + Red Hot", desc: "1 Whisky White Horse + 1 Red Hot 2L + 3 Gelos Saborizados", preco: 112.00, img: "combos/whitehorse_+_red_hot_2_L_+_3_gelos_saborizados.jpg", ativo: true },
             { id: 2004, nome: "Combo White Horse + Attivus", desc: "1 Whisky White Horse + 1 Attivus 2L + 3 Gelos Saborizados", preco: 110.00, img: "combos/white_horse_+_attivus_2_L_+_3_gelos_saborizados.jpg", ativo: true },
